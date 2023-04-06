@@ -17,5 +17,5 @@ jobs:
 
     - name: Run milti-line script
       run: |
-        echo WHY WON'T YOU DIE?!
+        echo WHY WONT YOU DIE?!
         echo NANOMACHINES, SON!
