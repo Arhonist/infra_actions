@@ -9,12 +9,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v2
     - name: Run simple script
       run: echo Kept you waiting, huh?
-    
+
     - name: Run milti-line script
       run: |
         echo WHY WON'T YOU DIE?!
